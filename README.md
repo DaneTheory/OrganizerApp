@@ -1,6 +1,21 @@
 # Organizer-App
 A Reactjs and Redux multi list app utilizing a remote data model with multiple reducers
 
+
+## Original Task This App Solves:
+
+Our wonderfully ambitious intern has created a new organization page to try and help members of the business team stay up to date.  Unfortunately our intern is a bit rusty at web development and resorted to copying various bits of code from the corners of the internet.  We need you to help clean up the page so we can put it into use.
+
+As for requirements, there are just a few things hard things that need to be in the final version.
+1.  Mobile ready - the design should accommodate screens of different sizes (the design doesn't have to stay exactly the same, but it should be usable regardless of the device)
+2.  Out intern is a big fan of maximum productivity - and so he loves the ability to change the background and font colors for easier reading at night - we'd like these buttons to always be accessible at the top of the page regardless of scroll position.
+
+Feel free to tweak the design with improvements as you see fit - the only requirements are those listed above.
+
+#### Link to original: 
+https://gist.githubusercontent.com/RaymondKlass/c4bbae444f4030de6c5e/raw/9510fa5726ef5f92ccb0545c8abdfd29ba59ab00/index.html
+
+
 # Say what?
 This App shows off a few cool concepts:
 <ul>
